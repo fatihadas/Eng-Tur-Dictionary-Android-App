@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">İngilizce Türkçe Sözlük</string>
+
+    <string name="internetyok">İnternet bağlantısı yok.</string>
+    <string name="kelimeloading">Kelime getiriliyor...</string>
+    <string name="backbutonmesaj">Uygulamanın geliştirilmesine yardımcı olmak için reklam  görmek ister misiniz?</string>
+    <string name="urluygulama">https://play.google.com/store/apps/details?id=com.projects.ingilizceturkcesozluk</string>
+    <string name="hakkindabaslik">İngilizce Türkçe Sözlük Hakkında</string>
+    <string name="hakkindaicerik">Sözlük uygulaması kelimeleri internetten bulup size sunmaktadır.\n\nSesli kelime girişi yapabilir ve kelimeyi sesli olarak dinleyebilirsiniz.\n\nHer türlü görüş ve önerileriniz için bizimle iletişime geçiniz.</string>
+    <string name="appsparametre">market://search?q=pub:Creative+APP</string>
+    <string name="appsurl">https://play.google.com/store/apps/developer?id=Creative+APP</string>
+    <string name="yenisürümde">Yeni güncellemede gelecek.</string>
+    <string name="bekle">Lütfen bekleyiniz.</string>
+    <string name="bilinmeyenhata">Hata oluştu. Tekrar deneyiniz.</string>
+
+    <string name="reklamkimliğiust">ca-app-pub-8649097782427195/8528323990</string>
+    <string name="reklamkimliğialt">ca-app-pub-8649097782427195/9353540250</string>
+    <string name="reklamkimliğigecis">ca-app-pub-8649097782427195/2552984724</string>
+    <string name="reklamkimliğivideo">ca-app-pub-8649097782427195/4412861303</string>
+    <string name="reklamktipi">BANNER</string>
+
+    <string name="uygpaylas">Uygulamayı paylaş</string>
+    <string name="destek">Destek ver</string>
+    <string name="uyghakkinda">Uygulama hakkında</string>
+    <string name="ayarlar">Ayarlar</string>
+    <string name="uygulamalar">Uygulamalarımız</string>
+    <string name="katki">Katkıda bulun</string>
+
+    <string name="btnevet">Evet</string>
+    <string name="btnkapat">Kapat</string>
+    <string name="ingilizce">İngilizce</string>
+    <string name="turkce">Türkçe</string>
+    <string name="kelimegir">Kelime giriniz</string>
+    <string name="bul">Çevir</string>
+    <string name="aramasonuc">Çeviri sonucu</string>
+    <string name="kelimesoyle">Kelimeyi söyleyin</string>
+    <string name="ceviripaylas">Kelimeyi paylaş</string>
+    <string name="kopyala">Panoya kopyalandı.</string>
+    <string name="hosgeldin">Hoşgeldin. Hemen çeviriye başlayabilirsin.</string>
+
+</resources>
